@@ -1,0 +1,1 @@
+let test = require(/commands/utility/ping.js);
